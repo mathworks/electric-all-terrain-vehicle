@@ -1,4 +1,4 @@
-# Electric All-Terrain Vehicle Powered by Brushless Direct Current (BLDC) Motor
+# Electric Vehicle Powered by Brushless Direct Current (BLDC) Motor
 
 About the submission:
 This submission contains a set of models to show the implementation of electric all-terrain vehicles powered by BLDC motor. 
