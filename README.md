@@ -9,12 +9,21 @@ The teams can use this example as a reference to build their own vehicle models 
 
 ## Models
 
+### eATV
+The model implements a closed-loop electric all-terrain vehicle using a Motor & Drive block. Irrespective of the type of motor, the model can be used for powertrain simulations. 
+
+![alt text](<Models/1_Generic_Motor/Images for Git/vehicleModel.PNG>)
+
 ### openLoopElectricAtv
 This model implements an open-loop electric all-terrain vehicle powered by a BLDC motor with a low fidelity longitudinal vehicle dynamics.  
 The model is used for performing open-loop testing and for optimizing vehicle parameters. 
 
+![alt text](<Models/2_BLDC_Motor/Images for Git/bldcOpenVehicleModel.PNG>)
+
 ### closeLoopElectricAtv
 This model implements a closed-loop electric all-terrain vehicle powered by a BLDC motor with a low fidelity longitudinal vehicle dynamics.
+
+![alt text](<Models/2_BLDC_Motor/Images for Git/bldcClosedVehicleModel.PNG>)
 
 ## Product Requirements
 
