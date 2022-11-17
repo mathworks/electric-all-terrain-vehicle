@@ -9,8 +9,8 @@ The teams can use this example as a reference to build their own vehicle models 
 
 ## Models
 
-### eATV
-The model implements a closed-loop electric all-terrain vehicle using a Motor & Drive block. Irrespective of the type of motor, the model can be used for powertrain simulations. 
+### eATV (R2022b)
+The model implements a closed-loop electric all-terrain vehicle using a Motor & Drive block. Irrespective of the type of motor, the model can be used for powertrain simulations. The model was built in R2022b version. 
 
 ![alt text](<Models/1_Generic_Motor/Images for Git/vehicleModel.PNG>)
 
